@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--
+
 Hi, I'm Sean Grady!
 
 :mortar_board: Currently pursuing a degree in Computer Science from Southern Methodist University.
@@ -12,4 +11,4 @@ LinkedIn: linkedin.com/in/gradysean1
 Github: github.com/scgrady13
 Phone: 201-315-3219
 Email: scgrady@smu.edu.
--->
+
