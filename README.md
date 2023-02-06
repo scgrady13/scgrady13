@@ -4,7 +4,7 @@ Hi, I'm Sean Grady!
 
 :mortar_board: Currently pursuing a degree in Computer Science from Southern Methodist University.  
 
-:briefcase: Experienced in database engineering and client service representation with companies such as Millet The Printer and AQUABLUE.  
+:briefcase: Experienced in database engineering and client service representation while interning at Millet The Printer and AQUABLUE.  
 
 :computer: Skilled in Java, C++, Python, HTML, CSS, JavaScript, and more.  
 
