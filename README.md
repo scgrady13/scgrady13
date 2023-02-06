@@ -13,8 +13,6 @@ Hi, I'm Sean Grady!
 
 LinkedIn: linkedin.com/in/gradysean1  
 
-Github: github.com/scgrady13  
-
 Phone: 201-315-3219  
 
 Email: scgrady@smu.edu  
