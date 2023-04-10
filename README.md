@@ -1,6 +1,6 @@
                                                                                     
                                                                                                       
-:mortar_board: Currently pursuing a degree in Computer Science from Southern Methodist University.  
+:mortar_board: Currently pursuing a degree in Computer Science and Data Science from Southern Methodist University.  
 
 :computer: Skilled in Java, C++, Python, HTML, CSS, JavaScript, and more.  
 
