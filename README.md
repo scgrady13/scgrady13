@@ -9,8 +9,6 @@
 
 LinkedIn: linkedin.com/in/gradysean1  
 
-Phone: 201-315-3219  
-
 Email: scgrady@smu.edu  
 
 
