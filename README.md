@@ -8,7 +8,3 @@
 
 
 LinkedIn: linkedin.com/in/gradysean1  
-
-Email: scgrady@smu.edu  
-
-
